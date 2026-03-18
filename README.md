@@ -1,4 +1,3 @@
-text
 # 🤖 Bot CRM API-First — Automação de Processo Seletivo
 
 Orquestrador Python que automatiza o fluxo de comunicação de um processo
@@ -276,5 +275,6 @@ ou via um novo template futuro.
 
 👤 Autor
 Desenvolvido por Mike
-Assistente de Relacionamento com o Cliente | Automação & Processos#   B o t - A P I - F i r s t  
+Assistente de Relacionamento com o Cliente | Automação & Processos#   B o t - A P I - F i r s t 
+ 
  # Bot-API-First
