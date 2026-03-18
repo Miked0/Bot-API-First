@@ -276,4 +276,5 @@ ou via um novo template futuro.
 
 👤 Autor
 Desenvolvido por Mike
-Assistente de Relacionamento com o Cliente | Automação & Processos
+Assistente de Relacionamento com o Cliente | Automação & Processos#   B o t - A P I - F i r s t  
+ 
