@@ -1,0 +1,22 @@
+{
+  "clientes": [
+    {
+      "nome": "Ana Silva",
+      "email": "ana.silva@example.com",
+      "empresa": "Tech Solutions Ltda",
+      "tipo_empreendimento": "REMANESCENTE"
+    },
+    {
+      "nome": "Carlos Oliveira",
+      "email": "carlos.oliveira@example.com",
+      "empresa": "Inovação Digital",
+      "tipo_empreendimento": "NOVO"
+    },
+    {
+      "nome": "Mariana Costa",
+      "email": "mariana.costa@example.com",
+      "empresa": "Crescimento Acelerado SA",
+      "tipo_empreendimento": "REMANESCENTE"
+    }
+  ]
+}

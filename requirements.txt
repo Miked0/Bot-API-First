@@ -1,0 +1,13 @@
+# DEPENDÊNCIAS DO BOT CRM API
+# Instalação: pip install -r requirements.txt
+
+# Requisições HTTP para APIs
+requests==2.31.0
+
+# Gerenciamento de variáveis de ambiente
+python-dotenv==1.0.0
+
+# Para ambientes com segurança reforçada, gere um arquivo com hashes:
+# pip install pip-tools
+# pip-compile --generate-hashes -o requirements.lock.txt requirements.txt
+# e use: pip install -r requirements.lock.txt --require-hashes

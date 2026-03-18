@@ -1,0 +1,35 @@
+# Ambiente virtual Python
+venv/
+env/
+.venv/
+ENV/
+
+# Variáveis de ambiente (NUNCA COMMITAR)
+.env
+
+# Logs e relatórios
+logs/
+logs/**
+*.log
+relatorio_*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dados sensíveis
+data/clientes_reais.json

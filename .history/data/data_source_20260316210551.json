@@ -1,0 +1,84 @@
+{
+  "clientes": [
+    {
+      "nome": "Ana Martins",
+      "email": "ana.martins@example.com",
+      "empresa": "Candidato Independente",
+      "vaga": "Analista de Suporte",
+      "status_candidatura": "APROVADO",
+      "etapa": "ENTREVISTA_FINAL"
+    },
+    {
+      "nome": "Bruno Oliveira",
+      "email": "bruno.oliveira@example.com",
+      "empresa": "Candidato Independente",
+      "vaga": "Desenvolvedor Backend",
+      "status_candidatura": "APROVADO",
+      "etapa": "TESTE_TECNICO"
+    },
+    {
+      "nome": "Carla Souza",
+      "email": "carla.souza@example.com",
+      "empresa": "Candidato Independente",
+      "vaga": "Product Owner",
+      "status_candidatura": "APROVADO",
+      "etapa": "ALINHAMENTO_FINAL"
+    },
+    {
+      "nome": "Daniel Lima",
+      "email": "daniel.lima@example.com",
+      "empresa": "Candidato Independente",
+      "vaga": "UX Designer",
+      "status_candidatura": "EM_ANALISE",
+      "etapa": "TRIAGEM_CURRICULAR"
+    },
+    {
+      "nome": "Eduarda Santos",
+      "email": "eduarda.santos@example.com",
+      "empresa": "Candidato Independente",
+      "vaga": "Data Analyst",
+      "status_candidatura": "REPROVADO",
+      "etapa": "ENTREVISTA_TECNICA"
+    },
+    {
+      "nome": "Felipe Costa",
+      "email": "felipe.costa@example.com",
+      "empresa": "Candidato Independente",
+      "vaga": "DevOps Engineer",
+      "status_candidatura": "REPROVADO",
+      "etapa": "TRIAGEM_CURRICULAR"
+    },
+    {
+      "nome": "Gabriela Nunes",
+      "email": "gabriela.nunes@example.com",
+      "empresa": "Candidato Independente",
+      "vaga": "Analista de CX",
+      "status_candidatura": "APROVADO",
+      "etapa": "APROVACAO_FINAL"
+    },
+    {
+      "nome": "Henrique Silva",
+      "email": "henrique.silva@example.com",
+      "empresa": "Candidato Independente",
+      "vaga": "QA Engineer",
+      "status_candidatura": "EM_ANALISE",
+      "etapa": "TESTE_TECNICO"
+    },
+    {
+      "nome": "Isabela Rocha",
+      "email": "isabela.rocha@example.com",
+      "empresa": "Candidato Independente",
+      "vaga": "Analista de Dados",
+      "status_candidatura": "APROVADO",
+      "etapa": "ENTREVISTA_FINAL"
+    },
+    {
+      "nome": "João Pedro",
+      "email": "joao.pedro@example.com",
+      "empresa": "Candidato Independente",
+      "vaga": "Especialista em Suporte",
+      "status_candidatura": "REPROVADO",
+      "etapa": "ENTREVISTA_COMPORTAMENTAL"
+    }
+  ]
+}
